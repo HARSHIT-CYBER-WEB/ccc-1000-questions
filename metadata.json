@@ -1,0 +1,6 @@
+{
+  "name": "NIELIT CCC 1000 MCQ Bank",
+  "description": "Comprehensive 1000-question multiple-choice question bank for the NIELIT Course on Computer Concepts (CCC) exam with answer keys, topic filters, mock exams, and clean website export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
